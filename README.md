@@ -2,7 +2,7 @@
 
 I'm Andrew, Golang/C++ developer.
 
-💬 connect @drew_spitsin
+💬 connect @drew_spitsin \n
 💻 practice LeetCode
 <!--
 **drewspitsin/drewspitsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
