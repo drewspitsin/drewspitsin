@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andrew, Golang/C++ developer.
+I'm Andrew, C++/Golang developer.
 
 💬 connect [@drew_spitsin](https://t.me/drew_spitsin) 
 💻 practice [LeetCode](https://leetcode.com/drewspitsin/)
